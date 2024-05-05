@@ -7,17 +7,16 @@
 #include<iostream>
 using namespace std;
  
-int main(){
- std::string nama = "notesa"; 
-int umur = 18;
-double tinggi = 159,9;
-bool belum menikah = true; 
-float nilaiUjian = 85.0f; 
+//int main(){
+// std::string nama = "notesa"; 
+//int umur = 18;
+//double tinggi = 159,9;
+//float nilaiUjian = 85.0f; 
 
-std::cout << nama << " " << umur <<" 
-return 0
+///std::cout << nama << " " << umur <<" 
+//return 0
 
-} 
+//} 
 // Pada deklarasi variable diatas itu menggunakan int bertipe interger , bool bertipe boolean, flot bertipe float. 
 
 
@@ -28,17 +27,16 @@ return 0
 // -Fungsi main berisi program utama yang meminta input dari pengguna, menghitung luas persegi panjang dengan memanggil fungsi, dan menampilkan hasil ke layar.
 
 // 3. contoh implementasi looping : 
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
-int main() {
+//int main() {
     // Mencetak angka dari 1 hingga 10
-    for (int i = 1; i <= 10; i++) {
-        cout << i << " ";
-    }
-    cout << endl;
-    return 0;
-}
+  //  for (int i = 1; i <= 10; i++) {
+  //      cout << i << " ";
+  //  }
+  //  cout << endl;
+//}
 //  - Menggunakan loop for untuk mencetak angka dari 1 hingga 10
 // - Menggunakan loop while untuk memeriksa apakah suatu bilangan genap
 // - Menggunakan loop do-while untuk menghitung jumlah digit dalam suatu bilangan bulat
